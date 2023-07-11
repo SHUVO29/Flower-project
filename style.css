@@ -1,0 +1,287 @@
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    body{
+        font-family: 'Lato', sans-serif;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+/* <!-- header section start beautiful flower --> */
+
+    .banner-img{
+        width: 350px;
+        height: auto;
+        margin-bottom: 0px;
+        margin: 0px;
+        padding: 0px;
+        image-orientation: from-image;
+        padding-bottom: 0px;
+    }
+
+    .banner-photo{
+        margin-right: 100px;
+        margin-top: 50px;
+    }
+    .banner-container{
+        display: flex;
+        justify-content: space-around;
+        height: auto;
+        align-items: center;
+        background-color: #E554731A;
+        background-position: center ;
+        background-size: cover;
+        margin-bottom: 0px;
+        
+    }
+
+    .banner-text{
+        margin-left: 150px;
+        margin-right: 100px;
+    }
+    .title{
+        color: #272727;
+        font-family: Lato;
+        font-size: 70px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+
+    }
+
+    .description{
+        font-size: 15px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        color: #27272799;
+    }
+
+    .btn{
+        padding: 10px 10px;
+        background-color: #E55473;
+        color: white;
+        border-radius: 5px;
+        border: none;
+    }
+
+    .about-container {
+        background: rgba(229, 84, 115, 0.05);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+        
+    }
+    .about-info{    
+        padding-top: 100px;
+        text-align: center;
+        align-items: center ;
+        text-align: center;
+        color: #272727;
+        font-family: Lato;
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+
+    }
+
+    .btn{
+        padding: 10px 10px;
+        background-color: #E55473;
+        color: white;
+        border-radius: 5px;
+        border: none;
+        align-items: center ;
+    }
+    p{
+        font-size: 12px;
+        color: #27272799;
+        padding-top: 15px;
+        padding-bottom: 17px;
+    }
+    .banner-img2{
+        width: 258px;
+        height: 320px;
+        padding-top: 35px;
+        padding-right: 50px;
+    }
+
+    .banner-container2{
+        height: 80vh;
+        background-image: url("./FlowerAsset/Rectangle\ 9.png") ;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-size: 80%;
+        text-align: center;
+        margin: auto;
+    
+
+    }
+    .title2{
+        padding-top: 200px;
+        color: #272727;
+        text-align: center;
+        font-family: 'Lato';
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+    .mail{
+        background: #FFF;
+        width: 400px;
+        height: 44px;
+        border: none;
+    }
+
+
+    /* instagram image flower section */
+    .insta-container{
+        text-align: center;
+        padding-top: 100px; 
+        font-family: 'Lato';
+        font-size: 20px;
+        font-weight: 700px;
+        align-items: center;
+        border: #E55473;
+    }
+    .insta-para{
+        font-size: 12px;
+        color: #272727;
+        padding-top: 20px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 40px 0px;
+    
+    }
+    .insta-content{
+        text-align: center;
+        padding-top: 100px; 
+        font-family: 'Lato';
+        font-size: 20px;
+        font-weight: 700px;
+        align-items: center;
+        border: #E55473;
+    }
+    .img-container{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    
+    
+    }
+    .img-flower{
+        padding: 10px 10px;
+        gap: 15px;
+    }
+    .image-container{       
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background-color: #E55473;
+        padding-bottom: 0px;
+        margin-left: auto;
+        background: #FFF;
+    }
+    /* our feature section  */
+    .feature-container{
+        text-align: center;
+        text-align: center;
+        padding-top: 100px; 
+        font-family: 'Lato';
+        font-size: 20px;
+        font-weight: 700px;
+        align-items: center;
+        border: #E55473;
+    }
+    .feature-pera{
+        font-size: 12px;
+        color: #272727;
+        padding-top: 20px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 40px 0px;
+    
+    }
+    .image-flower{
+        padding: 10px;
+        gap: 15px;  
+    }
+
+    .image-flower h5{
+        padding: 10px;
+        text-align: center;
+        text-decoration-line: underline;
+        font-size: 24px;
+    }
+    .tulip{
+        border-radius: 300px 300px 0px 0px;
+        background: rgba(167, 33, 98, 0.15);
+        width: 400px;
+        height: 438px;
+    }
+
+    .camelia{
+        border-radius: 300px 300px 0px 0px;
+        background: rgba(5, 151, 160, 0.15);
+        width: 400px;
+        height: 438px;
+    }
+
+
+    .yellow{
+        border-radius: 300px 300px 0px 0px;
+        background: rgba(71, 125, 17, 0.15);
+        width: 400px;
+        height: 438px;
+    }
+
+ /* footer section */
+ footer{
+
+    background: #111010;
+    height: auto;
+    width: 100%;
+    color: #FFF;
+    font-family: 'Lato';
+
+}
+.footer-content{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 40px 0px;
+
+}
+.footer-content h3{
+    font-size: 45px;
+    font-weight: 800;
+    padding-top: 30px;
+    color:#FFFFFF;
+}
+.footer-content .flower {
+    color:#E55473 ;
+}
+
+.footer-content p{
+    max-width: 400px;
+    margin: 10px auto;
+    line-height: 26px;
+    font-size: 13px;
+    color: #FFF;
+    text-align: center;
+
+}
+
+.footer-content .copyright {
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+}
+
+
